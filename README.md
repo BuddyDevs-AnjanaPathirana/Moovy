@@ -1,6 +1,7 @@
 # Moovy
-A movie renting application
 
-Developed for learning purpose only
+*A movie renting application
 
-#Developed By BuddyDevs
+*Developed for learning purpose only
+
+## Developed By BuddyDevs
